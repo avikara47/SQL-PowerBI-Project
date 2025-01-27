@@ -66,7 +66,7 @@ Avi-Bike-Shop/
 ## **How to Replicate**
 1. **Clone this repository**:
    ```bash
-   git clone https://github.com/yourusername/Avi-Bike-Shop.git
+   git clone https://github.com/avikara47/SQL-PowerBI-Project
    ```
 2. **SQL Analysis**:
    - Open `analysis_queries.sql` in your SQL editor and run the queries on the provided datasets.
