@@ -27,8 +27,7 @@ This project demonstrates an analysis of Avi's Bike Share data using **SQL** and
   - Rider demographic breakdown (casual vs. registered).
   - Seasonal revenue and profitability patterns.
     
-You can explore the **interactive Power BI dashboard** here:  
-[**View Power BI Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiZTk3ZTIwZDQtNzBhNy00Y2M0LWE2NjItN2QwM2FiYWRjNWMxIiwidCI6IjM0NTMxMzE4LTcwMTEtNGZkNC04N2YwLWE0MzgxNmM0OWJkMCJ9)
+You can explore the **interactive Power BI dashboard** here: [**View Power BI Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiZTk3ZTIwZDQtNzBhNy00Y2M0LWE2NjItN2QwM2FiYWRjNWMxIiwidCI6IjM0NTMxMzE4LTcwMTEtNGZkNC04N2YwLWE0MzgxNmM0OWJkMCJ9)
 
 ---
 
@@ -55,7 +54,7 @@ Avi-Bike-Shop/
 │   ├── analysis_queries.sql
 ├── PowerBI/
 │   ├── Avi_Bike_Dashboard.pbix
-│   ├── dashboard_link.txt
+│   ├── dashboard_link.md
 ├── Data/
 │   ├── bike_share_data_2021.csv
 │   ├── bike_share_data_2022.csv
