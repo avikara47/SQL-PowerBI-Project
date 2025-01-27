@@ -64,7 +64,7 @@ Avi-Bike-Shop/
 │   ├── analysis_queries.sql
 ├── PowerBI/
 │   ├── Avi_Bike_Dashboard.pbix
-│   ├── dashboard_screenshot.png
+│   ├── dashboard_link.txt
 ├── Data/
 │   ├── bike_share_data_2021.csv
 │   ├── bike_share_data_2022.csv
