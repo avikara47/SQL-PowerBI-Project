@@ -21,7 +21,7 @@ This project demonstrates an analysis of Avi's Bike Share data using **SQL** and
   - **Cost of Goods Sold (COGS)**
 - Identified **seasonal** and **demographic trends** to aid business decision-making.
 
-## **Interactive Power BI Dashboard**
+### **Interactive Power BI Dashboard**
 You can explore the **interactive Power BI dashboard** here:  
 [**View Power BI Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiZTk3ZTIwZDQtNzBhNy00Y2M0LWE2NjItN2QwM2FiYWRjNWMxIiwidCI6IjM0NTMxMzE4LTcwMTEtNGZkNC04N2YwLWE0MzgxNmM0OWJkMCJ9)
 - Interactive visuals to explore:
