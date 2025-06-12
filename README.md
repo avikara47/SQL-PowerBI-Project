@@ -1,4 +1,4 @@
-# **Avi's Bike Share: SQL and Power BI Analysis**
+# **Avi's Bike Shop: SQL and Power BI Analysis**
 
 ## **Project Overview**
 This project demonstrates an analysis of Avi's Bike Share data using **SQL** and **Power BI**. The goal is to uncover key insights and provide actionable recommendations for the business, focusing on metrics like **revenue**, **profit**, **rider demographics**, and **seasonal trends**.
